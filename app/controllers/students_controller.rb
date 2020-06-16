@@ -11,4 +11,7 @@ class StudentsController < ApplicationController
     redirect_to (@student)
   end
 
+  def show
+  end
+
 end
